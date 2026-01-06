@@ -1,5 +1,5 @@
 # An Improved Version of HPCC simulation (2026.1)
-This is an improved simulator for [HPCC: High Precision Congestion Control (SIGCOMM' 2019)](https://rmiao.github.io/publications/hpcc-li.pdf). We add some functions based original [HPCC repo](https://github.com/alibaba-edu/High-Precision-Congestion-Control).
+This is an improved simulator for [HPCC: High Precision Congestion Control (SIGCOMM' 2019)](https://rmiao.github.io/publications/hpcc-li.pdf). We add some functions based on the original [HPCC repo](https://github.com/alibaba-edu/High-Precision-Congestion-Control).
 
 ## Results Comparison between Ours and Paper's  
 Below is a comparison of our simulation results with those presented in the paper.
