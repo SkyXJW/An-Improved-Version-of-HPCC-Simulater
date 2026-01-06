@@ -53,4 +53,4 @@ python ./waf --run 'scratch/third mix/config.txt'
 Simply modify the configuration file path within the command.
 
 ## Questions
-Welcome to discussion by creating an issue in this repo!
+Welcome to discuss with us by creating an issue in this repo!
