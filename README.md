@@ -36,7 +36,7 @@ conda activate HPCC
 
 ## Quick Start
 ```
-cd ./HPCC/simulation/
+cd ./An-Improved-Version-of-HPCC-Simulater/simulation/
 CC='x86_64-conda_cos6-linux-gnu-gcc' CXX='x86_64-conda_cos6-linux-gnu-g++' python ./waf configure
 python ./waf --run 'scratch/third mix/config.txt'
 ```
