@@ -28,8 +28,8 @@ Refer to the README.md under it for more details.
 
 ## Set Up
 ```
-git clone 
-cd HPCC
+git clone https://github.com/SkyXJW/An-Improved-Version-of-HPCC-Simulater.git
+cd An-Improved-Version-of-HPCC-Simulater
 conda env create -f environment.yml
 conda activate HPCC
 ```
