@@ -1,0 +1,14 @@
+name: HPCC
+channels:
+  - https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
+  - https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+  - defaults
+dependencies:
+  - python=2.7
+  - gxx_linux-64=5.4.0
+  - gcc_linux-64=5.4.0
+  - tmux
+  - pandas
+  - matplotlib
+  - seaborn
